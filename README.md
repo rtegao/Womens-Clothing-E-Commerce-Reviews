@@ -27,3 +27,6 @@ Nothebook using a basic text preprocessing function and some shallow learning al
 Trying to deal with the imbalance distribution of the target column (Recommended IND). The same text preprocessing function and algorithms from the previous notebook, have been implemented.
 Some requirements have been established to choose the best imbalanced rate and algorithm, after this a ensemble learning was implemented to improve the generalization.
  
+- # Future Improvements
+It's possible to use the "Rating" column as an extra feature to improve the model performance, in a future version.
+ 
